@@ -1,0 +1,51 @@
+{
+  "id": "type:String",
+  "activation": "predicate:activationPredicate",
+  "startString": "predicate:startPredicate",
+  "expiry": "predicate:expiryPredicate",
+  "active": true,
+  "rewardPool": "Archon Sortie Rewards",
+  "variants": [],
+  "missions": [
+    {
+      "node": "type:String",
+      "nodeKey": "type:String",
+      "type": "type:String",
+      "typeKey": "type:String",
+      "nightmare": false,
+      "archwingRequired": false,
+      "isSharkwing": false,
+      "advancedSpawners": [],
+      "requiredItems": [],
+      "levelAuras": []
+    },
+    {
+      "node": "type:String",
+      "nodeKey": "type:String",
+      "type": "type:String",
+      "typeKey": "type:String",
+      "nightmare": false,
+      "archwingRequired": false,
+      "isSharkwing": false,
+      "advancedSpawners": [],
+      "requiredItems": [],
+      "levelAuras": []
+    },
+    {
+      "node": "type:String",
+      "nodeKey": "type:String",
+      "type": "type:String",
+      "typeKey": "type:String",
+      "nightmare": false,
+      "archwingRequired": false,
+      "isSharkwing": false,
+      "advancedSpawners": [],
+      "requiredItems": [],
+      "levelAuras": []
+    }
+  ],
+  "boss": "type:String",
+  "faction": "type:String",
+  "expired": false,
+  "eta": "predicate:etaPredicate"
+}
