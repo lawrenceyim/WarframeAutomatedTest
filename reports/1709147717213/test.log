@@ -1,0 +1,458 @@
+[2024-02-28 07:15:17] [1] [INFO] [TestNG] Running:
+  /Users/lawrence/Library/Caches/JetBrains/IdeaIC2023.2/temp-testng-customsuite.xml
+
+[2024-02-28 07:15:18] [1] [INFO] Request method:	GET
+Request URI:	https://api.warframestat.us/pc/archonHunt
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 28 Feb 2024 19:15:18 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+Content-Language: en
+ETag: W/"39b-7SIiPWLJe8h10AZ6FuZFkMotX84"
+Cache-Control: max-age=120
+CF-Cache-Status: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ANt%2Fs7ZykTp1L3X%2BF8jqMETRMi2br1YzA2agV1IZvs7TkgHZ7Bz4adBrre9Dz77r40%2FUWbj2bbThrLfRMPYkzWtov6fzYrm1dfHWJhrEWgo7iQhDQy7%2FIlP3x8i%2BgrxGS0DZaeNM"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 85cafed76c03b103-ATL
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": "65dbd0fd399617ab4d3dcab9",
+    "activation": "2024-02-26T00:00:00.000Z",
+    "startString": "-2d 19h 14m 20s",
+    "expiry": "2024-03-04T00:00:00.000Z",
+    "active": true,
+    "rewardPool": "Archon Sortie Rewards",
+    "variants": [
+        
+    ],
+    "missions": [
+        {
+            "node": "Ares (Mars)",
+            "nodeKey": "Ares (Mars)",
+            "type": "Spy",
+            "typeKey": "Spy",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        },
+        {
+            "node": "Olympus (Mars)",
+            "nodeKey": "Olympus (Mars)",
+            "type": "Disruption",
+            "typeKey": "Disruption",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        },
+        {
+            "node": "War (Mars)",
+            "nodeKey": "War (Mars)",
+            "type": "Assassination",
+            "typeKey": "Assassination",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        }
+    ],
+    "boss": "Archon Amar",
+    "faction": "Narmer",
+    "expired": false,
+    "eta": "4d 4h 45m 39s"
+}
+
+[2024-02-28 07:15:18] [1] [INFO] Request method:	GET
+Request URI:	https://api.warframestat.us/ps4/archonHunt
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 28 Feb 2024 19:15:18 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+Content-Language: en
+ETag: W/"39b-7SIiPWLJe8h10AZ6FuZFkMotX84"
+Cache-Control: max-age=120
+CF-Cache-Status: HIT
+Age: 55
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BcE0A7bntaCF3lUJF3n4rN9%2FtIxrlktTbz3JC%2Fq5IzXibdGvzVrrBUcqXH61yZig25InRpIvU%2FaSMcIoJ%2BtIUSV1H6oFjatgU3gK00RPpKOyFyNL4i5VbdxpoTmW34LDdU14e0%2FH"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 85cafedb2f2cadd7-ATL
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": "65dbd0fd399617ab4d3dcab9",
+    "activation": "2024-02-26T00:00:00.000Z",
+    "startString": "-2d 19h 14m 20s",
+    "expiry": "2024-03-04T00:00:00.000Z",
+    "active": true,
+    "rewardPool": "Archon Sortie Rewards",
+    "variants": [
+        
+    ],
+    "missions": [
+        {
+            "node": "Ares (Mars)",
+            "nodeKey": "Ares (Mars)",
+            "type": "Spy",
+            "typeKey": "Spy",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        },
+        {
+            "node": "Olympus (Mars)",
+            "nodeKey": "Olympus (Mars)",
+            "type": "Disruption",
+            "typeKey": "Disruption",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        },
+        {
+            "node": "War (Mars)",
+            "nodeKey": "War (Mars)",
+            "type": "Assassination",
+            "typeKey": "Assassination",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        }
+    ],
+    "boss": "Archon Amar",
+    "faction": "Narmer",
+    "expired": false,
+    "eta": "4d 4h 45m 39s"
+}
+
+[2024-02-28 07:15:19] [1] [INFO] Request method:	GET
+Request URI:	https://api.warframestat.us/xb1/archonHunt
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 28 Feb 2024 19:15:19 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+Content-Language: en
+ETag: W/"39b-7SIiPWLJe8h10AZ6FuZFkMotX84"
+Cache-Control: max-age=120
+CF-Cache-Status: HIT
+Age: 57
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=HKT958SxdMSRHEGngY1UZAj2pw9FTbWY%2F2stjwvyWbCcG80Om3rXDgEcZXBFbKDvpB%2F1IrKk6qQGyJh3d7GkaA72G%2B5yD6w%2BBbBMlZca1vMP7TDuwu1YTqjApfqtyHuIiplWJJ4t"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 85cafedc3d1c4513-ATL
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": "65dbd0fd399617ab4d3dcab9",
+    "activation": "2024-02-26T00:00:00.000Z",
+    "startString": "-2d 19h 14m 20s",
+    "expiry": "2024-03-04T00:00:00.000Z",
+    "active": true,
+    "rewardPool": "Archon Sortie Rewards",
+    "variants": [
+        
+    ],
+    "missions": [
+        {
+            "node": "Ares (Mars)",
+            "nodeKey": "Ares (Mars)",
+            "type": "Spy",
+            "typeKey": "Spy",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        },
+        {
+            "node": "Olympus (Mars)",
+            "nodeKey": "Olympus (Mars)",
+            "type": "Disruption",
+            "typeKey": "Disruption",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        },
+        {
+            "node": "War (Mars)",
+            "nodeKey": "War (Mars)",
+            "type": "Assassination",
+            "typeKey": "Assassination",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        }
+    ],
+    "boss": "Archon Amar",
+    "faction": "Narmer",
+    "expired": false,
+    "eta": "4d 4h 45m 39s"
+}
+
+[2024-02-28 07:15:19] [1] [INFO] Request method:	GET
+Request URI:	https://api.warframestat.us/swi/archonHunt
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Cookies:		<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 28 Feb 2024 19:15:19 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 0
+Content-Language: en
+ETag: W/"39b-7SIiPWLJe8h10AZ6FuZFkMotX84"
+Cache-Control: max-age=120
+CF-Cache-Status: HIT
+Age: 57
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oR7Z6U9w9mgMl5uMwysqqWERGjRr52%2FvJwbL%2B9LkdfCu4t4cymJniabh0ni1nepcwGlsD88UyoVm2uLazBN%2FvrE6oGbbSlBIWrZVcbg4N7t379a5NTsnroPPLBSpRzeS0ob2lXWs"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 85cafede8d006756-ATL
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400
+
+{
+    "id": "65dbd0fd399617ab4d3dcab9",
+    "activation": "2024-02-26T00:00:00.000Z",
+    "startString": "-2d 19h 14m 20s",
+    "expiry": "2024-03-04T00:00:00.000Z",
+    "active": true,
+    "rewardPool": "Archon Sortie Rewards",
+    "variants": [
+        
+    ],
+    "missions": [
+        {
+            "node": "Ares (Mars)",
+            "nodeKey": "Ares (Mars)",
+            "type": "Spy",
+            "typeKey": "Spy",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        },
+        {
+            "node": "Olympus (Mars)",
+            "nodeKey": "Olympus (Mars)",
+            "type": "Disruption",
+            "typeKey": "Disruption",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        },
+        {
+            "node": "War (Mars)",
+            "nodeKey": "War (Mars)",
+            "type": "Assassination",
+            "typeKey": "Assassination",
+            "nightmare": false,
+            "archwingRequired": false,
+            "isSharkwing": false,
+            "advancedSpawners": [
+                
+            ],
+            "requiredItems": [
+                
+            ],
+            "levelAuras": [
+                
+            ]
+        }
+    ],
+    "boss": "Archon Amar",
+    "faction": "Narmer",
+    "expired": false,
+    "eta": "4d 4h 45m 39s"
+}
+
